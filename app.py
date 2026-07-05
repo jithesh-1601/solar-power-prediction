@@ -48,4 +48,4 @@ st.write(
     "model's predictive power, consistent with the physics of photovoltaic power generation."
 )
 
-st.caption("Project by [Your Name] | EEE Student")
+st.caption("Project by Jithesh Kumar | EEE Student")
