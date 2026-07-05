@@ -49,5 +49,5 @@ Compare additional models (XGBoost, Gradient Boosting).
 Extend analysis to Plant 2 and compare performance across plants.
 Build a simple dashboard (Streamlit) for real-time prediction input.
 
-Author
+Author:
 Jithesh Kumar A — Electrical & Electronics Engineering, KPR Institute of Engineering and Technology.
