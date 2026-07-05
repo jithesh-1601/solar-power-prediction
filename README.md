@@ -51,6 +51,3 @@ Build a simple dashboard (Streamlit) for real-time prediction input.
 
 Author
 Jithesh Kumar A — Electrical & Electronics Engineering, KPR Institute of Engineering and Technology.
-Author
-
-[Your Name] — Electrical & Electronics Engineering, [Your College]
