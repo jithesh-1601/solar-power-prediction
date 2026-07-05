@@ -48,6 +48,7 @@ Incorporate time-based features (hour of day, day of week) to capture daily/seas
 Compare additional models (XGBoost, Gradient Boosting).
 Extend analysis to Plant 2 and compare performance across plants.
 Build a simple dashboard (Streamlit) for real-time prediction input.
+live demo on streamlit : https://solar-power-prediction-hwojny9pjr5pjiwiq6noud.streamlit.app/
 
 Author:
 Jithesh Kumar A — Electrical & Electronics Engineering, KPR Institute of Engineering and Technology.
